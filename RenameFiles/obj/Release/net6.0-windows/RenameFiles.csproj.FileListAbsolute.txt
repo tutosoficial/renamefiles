@@ -1,0 +1,17 @@
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\bin\Release\net6.0-windows\RenameFiles.exe
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\bin\Release\net6.0-windows\RenameFiles.deps.json
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\bin\Release\net6.0-windows\RenameFiles.runtimeconfig.json
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\bin\Release\net6.0-windows\RenameFiles.dll
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\bin\Release\net6.0-windows\ref\RenameFiles.dll
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\bin\Release\net6.0-windows\RenameFiles.pdb
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.FrmRenameFiles.resources
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.csproj.GenerateResource.cache
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.AssemblyInfoInputs.cache
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.AssemblyInfo.cs
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.csproj.CoreCompileInputs.cache
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.dll
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\ref\RenameFiles.dll
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.pdb
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.genruntimeconfig.cache
+C:\Users\levin\Documents\GitHub\renamefiles\RenameFiles\obj\Release\net6.0-windows\RenameFiles.csproj.AssemblyReference.cache
