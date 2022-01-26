@@ -1,4 +1,4 @@
-# renamefiles
+# Rename Files em C#
 Projeto para renomear arquivos em uma pasta, removendo caracteres ou palavras específicas
 
 1. O usuário deverá selecionar uma pasta;
